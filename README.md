@@ -1,11 +1,11 @@
-#Weather App
+# Weather App
 
 A simple proof of concept weather app made with kotlin and a variety of other android frameworks and principles, making use of dependency injection, MVVM and HTTP.
 
-#Background
+# Background
 
 A lot of companies make use of a weather app as their evaluation for how skilled a developer is, so I thought it would be a good idea
-to try my best at making a weather app with all the skills I've learned since starting my journey with kotlin.
+to try my luck at making a weather app with all the skills I've learned since starting my journey with kotlin.
 
 This project makes use of Kotlin, Retrofit and GSON for the majority of the features : retrieving data from two different api's and
 then populating the UI, which is built using constraint layout, glide and android standards for localization.
@@ -14,9 +14,9 @@ After the data from the api's are returned, I implemented some basic caching, ma
 which are then returned to the user when they launch the app again, to improve the UX a bit and also to learn some new skills with Room, RxJava and the idea of caching.
 
 I made use of the MVVM architecture, as this is my favourite architecture to use and used Dagger for dependency injection, as this is
-also an industry standard framework for android development.
+also an industry standard framework for android development. I also made use of Bitrise as my choice of build server, as this was a simple and small project and Bitrise is really simple to use for a project like this.
 
-I really learned a lot of things from this project, including retrofit and material design and this was a really fun, quick project to work on
+I really learned a lot of things from this project, including how to better use retrofit and material design and this was a really fun, quick project to work on.
 
 
 # Overview
