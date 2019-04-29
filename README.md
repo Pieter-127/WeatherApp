@@ -1,7 +1,9 @@
 #Weather App
+
 A simple proof of concept weather app made with kotlin and a variety of other android frameworks and principles, making use of dependency injection, MVVM and HTTP.
 
 #Background
+
 A lot of companies make use of a weather app as their evaluation for how skilled a developer is, so I thought it would be a good idea
 to try my best at making a weather app with all the skills I've learned since starting my journey with kotlin.
 
