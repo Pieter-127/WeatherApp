@@ -18,7 +18,7 @@ I really learned a lot of things from this project, including retrofit and mater
 
 
 # Overview
-![Screenshot](art/overview.png)
+![Screenshot](https://github.com/PieterVenter77/WeatherApp/blob/master/overview.png)
 
 # Libraries and Frameworks
 - Kotlin
