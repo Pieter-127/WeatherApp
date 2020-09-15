@@ -46,6 +46,5 @@ I really learned a lot of things from this project, including how to better use 
 
 # Attributions
 - original design by Punit Chawla (https://www.uplabs.com/punitdesign)
-- modifications and icon design by Roch (http://www.artroch.co.za/)
 
 Source at private bitbucket, this is just as an overview of work done previously, feel free to send me a message and I'll make it available :) 
